@@ -442,6 +442,6 @@ body .modal {
     align-items: center;
   }
   .modal{
-  overflow-y: hidden;
+  overflow: hidden;
   }
 }
