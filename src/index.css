@@ -441,7 +441,5 @@ body .modal {
     justify-content: center;
     align-items: center;
   }
-  .modal{
-  overflow: hidden;
-  }
+  
 }
