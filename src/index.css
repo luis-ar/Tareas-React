@@ -433,5 +433,12 @@ body .modal {
     padding: 5px;
     margin: 0;
   }
-  
+  .nuevo-presupuesto {
+    width: 100%;
+  }
+  .contenedor-modificado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
